@@ -1,9 +1,7 @@
-Made and VS code using Pythin 313
+Done in VS code using Python 313
 
-Libs>
-
+dependencies:
 pip install numpy pillow matplotlib
-
 
 
 <img width="731" height="407" alt="Screenshot 2025-11-02 094937" src="https://github.com/user-attachments/assets/503ea6d4-0a8f-4d28-a1f5-c9288684bd9b" />
